@@ -1,6 +1,6 @@
 # Calculator
 
-Uma calculadora feita em HTML, CSS e JS,
+Uma calculadora feita em HTML, CSS e JS.
 
 Funciona apenas na base do click do mouse, não reconhece as teclas do teclado.
 
